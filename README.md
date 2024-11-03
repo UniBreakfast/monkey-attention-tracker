@@ -1,4 +1,4 @@
-# monkey-attention-tracker
+# [monkey-attention-tracker](https://github.com/UniBreakfast/monkey-attention-tracker)
 
 An experiment with drawing smooth curve line on a canvas coordinates grid.
 
